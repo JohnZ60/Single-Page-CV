@@ -1,2 +1,2 @@
 # Single-Page-CV
-My CV written in HTML
+My CV written in HTML, simply run index.html
